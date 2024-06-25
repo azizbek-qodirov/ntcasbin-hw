@@ -1,0 +1,3 @@
+p, student, classes, attend, allow, day_time, any, any
+p, student, exams, take, allow, any, paid, any
+p, student, homework, submit, allow, any, any, present

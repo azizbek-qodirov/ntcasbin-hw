@@ -1,5 +1,0 @@
-p, student, faceID, use, allow
-p, student, lesson, participate, allow
-p, student, exam, participate, allow
-
-g, alice, student
