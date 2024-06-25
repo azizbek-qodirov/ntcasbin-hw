@@ -1,0 +1,16 @@
+p, student, class, attend
+p, student, face_id, use
+p, student, class_schedule, view
+
+p, teacher, class, attend
+p, teacher, class_schedule, access
+p, teacher, exams, grade
+p, teacher, face_id, use
+
+p, admin, users, manage
+p, admin, roles, manage
+p, admin, permissions, manage
+p, admin, class_schedule, access
+p, admin, face_id, use
+
+p, guest, class_schedule, view
